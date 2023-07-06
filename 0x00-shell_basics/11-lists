@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ls -la /root/alx-system_engineering-devops/0x00-shell_basics /root/alx-system_engineering-devops /boot
 
 =======
 ls -na /boot
 >>>>>>> ce4a451e3e5a688fd01351c820ea87baf57e1875
+=======
+ls . .. /boot -la
+>>>>>>> f90db8792c36d04a4b703b324ce4fdd8177d91a2
